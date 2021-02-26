@@ -1,0 +1,4 @@
+[submodule "GAHEOS/odoo-payment"]
+	path = GAHEOS/odoo-payment
+	url = git@github.com:GAHEOS/odoo-payment.git
+	branch = 14.0
