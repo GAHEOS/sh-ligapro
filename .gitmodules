@@ -1,0 +1,4 @@
+[submodule "GAHEOS/odoo-latam"]
+	path = GAHEOS/odoo-latam
+	url = git@github.com:GAHEOS/odoo-latam.git
+	branch = 14.0
