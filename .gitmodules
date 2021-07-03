@@ -22,3 +22,8 @@
 	path = GAHEOS/odoo-payment
 	url = git@github.com:GAHEOS/odoo-payment.git
 	branch = 14.0
+
+[submodule "GAHEOS/odoo-stock"]
+	path = GAHEOS/odoo-stock
+	url = git@github.com:GAHEOS/odoo-stock.git
+	branch = 14.0
