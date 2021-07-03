@@ -1,3 +1,23 @@
+[submodule "GAHEOS/odoo-latam"]
+	path = GAHEOS/odoo-latam
+	url = git@github.com:GAHEOS/odoo-latam.git
+	branch = 14.0
+
+[submodule "GAHEOS/odoo-ec"]
+	path = GAHEOS/odoo-ec
+	url = git@github.com:GAHEOS/odoo-ec.git
+	branch = 14.0
+
+[submodule "GAHEOS/odoo-hr"]
+	path = GAHEOS/odoo-hr
+	url = git@github.com:GAHEOS/odoo-hr.git
+	branch = 14.0
+
+[submodule "GAHEOS/odoo-account"]
+	path = GAHEOS/odoo-account
+	url = git@github.com:GAHEOS/odoo-account.git
+	branch = 14.0
+
 [submodule "GAHEOS/odoo-payment"]
 	path = GAHEOS/odoo-payment
 	url = git@github.com:GAHEOS/odoo-payment.git
